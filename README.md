@@ -56,4 +56,5 @@ You can help by suggesting technical topics, identifying interesting source mate
 
 ## License
 
-Please refer to the license and attribution information provided in this repository for the terms of use.
+Please refer to the license and attribution information provided for each individual folder or file.
+Note that such information is often missing, but please don't worry about it.
